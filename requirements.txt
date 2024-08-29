@@ -3,7 +3,7 @@ tensorflow
 streamlit
 yfinance
 datetime
-sklearn
+xgboost
 pandas
 matplotlib.pyplot
 numpy
