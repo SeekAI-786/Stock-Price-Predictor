@@ -1,6 +1,5 @@
 keras
 tensorflow
-streamlit
 yfinance
 datetime
 xgboost
