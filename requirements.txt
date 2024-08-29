@@ -5,6 +5,6 @@ yfinance
 datetime
 xgboost
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
 scikit-learn
