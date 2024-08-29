@@ -5,6 +5,6 @@ yfinance
 datetime
 sklearn
 pandas
-matplotlib
+matplotlib.pyplot
 numpy
 scikit-learn
