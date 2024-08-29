@@ -1,0 +1,5 @@
+How To Run App on Anaconda Prompt:
+1. Open Anaconda Prompt as Administratot
+2. cd ..... write directory location where App.py file is
+3. pip install streamlit
+4. streamit run App.py or python -m streamlit run App.py
